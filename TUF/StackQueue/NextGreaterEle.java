@@ -31,10 +31,17 @@ public class NextGreaterEle {   // Monotonic Stack Introduction
         // System.out.println(Arrays.toString(arr));
         // System.out.println(Arrays.toString(result));
 
-        int[] arr = {2,1,3,1,4,2,3,1,5};
-        int[] result = prevGreaterEle(arr);
+        // int[] arr = {2,1,3,1,4,2,3,1,5};
+        // int[] result = prevGreaterEle(arr);
+        // System.out.println(Arrays.toString(arr));
+        // System.out.println(Arrays.toString(result));
+
+        int[] arr = {0,3,4,5,2,3,4,1,4};
+        int[] prevSmaller = prevSmallerEle(arr);
+        int[] nextSmaller = nextSmallerEle(arr);
         System.out.println(Arrays.toString(arr));
-        System.out.println(Arrays.toString(result));
+        System.out.println(Arrays.toString(prevSmaller));
+        System.out.println(Arrays.toString(nextSmaller));
 
     }
 
