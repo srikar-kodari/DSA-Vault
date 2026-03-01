@@ -1,0 +1,16 @@
+# Compiled Java files
+*.class
+
+# Logs
+*.log
+
+# IDE folders
+.idea/
+.vscode/
+
+# Build folders
+out/
+build/
+
+# OS generated files
+.DS_Store
