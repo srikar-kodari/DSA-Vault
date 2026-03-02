@@ -8,6 +8,9 @@
 .idea/
 .vscode/
 
+# IDE files
+*.iml
+
 # Build folders
 out/
 build/
