@@ -9,13 +9,6 @@ public class JumpGame2 {
 
     }
 
-    static int jump(int[] nums) {
-
-        int ans = countJumps(0, 0, nums);
-
-        return ans;
-    }
-
     // TC: O(N) - single pass over the array
     // SC: O(1) - constant extra space
     static int jumpGreedy(int[] nums) {
@@ -36,6 +29,15 @@ public class JumpGame2 {
         }
 
         return jumps;
+    }
+
+    
+    // Recursion
+    static int jump(int[] nums) {
+
+        int ans = countJumps(0, 0, nums);
+
+        return ans;
     }
 
     // TC: O(2^N) worst case - explores many jump combinations recursively
