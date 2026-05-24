@@ -1,0 +1,3 @@
+Java character streams are useful for text processing.
+They help you read and write readable content.
+Buffered readers make large text files easier to handle.

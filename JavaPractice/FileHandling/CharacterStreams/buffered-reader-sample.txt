@@ -1,0 +1,3 @@
+BufferedReader improves text reading performance.
+It reads chunks of characters instead of one character at a time.
+That makes repeated reads cheaper for larger files.

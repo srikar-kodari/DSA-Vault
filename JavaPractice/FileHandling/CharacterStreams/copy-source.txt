@@ -1,0 +1,2 @@
+This file will be copied using character streams.
+The copy keeps the text content readable.

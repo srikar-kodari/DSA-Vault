@@ -1,0 +1,4 @@
+BufferedWriter groups many small writes into larger chunks.
+That is helpful when you write logs, reports, or large text files.
+flush() pushes buffered text to the file before close().
+This line is written after flush().

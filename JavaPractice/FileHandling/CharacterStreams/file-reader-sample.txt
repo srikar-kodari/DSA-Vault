@@ -1,0 +1,2 @@
+FileReader is a simple way to read text files.
+It reads characters from a file.

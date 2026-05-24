@@ -1,0 +1,3 @@
+Morning log entry.
+Noon log entry.
+Evening log entry.
