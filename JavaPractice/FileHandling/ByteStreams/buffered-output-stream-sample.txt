@@ -1,0 +1,3 @@
+BufferedOutputStream batches writes for efficiency.
+It is useful when writing many small pieces of data.
+Final line from buffered output stream.

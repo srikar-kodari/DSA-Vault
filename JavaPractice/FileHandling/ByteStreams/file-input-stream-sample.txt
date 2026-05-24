@@ -1,0 +1,2 @@
+FileInputStream reads bytes from a file.
+It is useful for binary data and simple file reads.

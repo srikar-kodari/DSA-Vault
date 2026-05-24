@@ -1,0 +1,3 @@
+BufferedInputStream improves read performance.
+It reads larger blocks of bytes internally.
+This example prints chunks from the file.
