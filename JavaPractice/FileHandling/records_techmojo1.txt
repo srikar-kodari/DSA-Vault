@@ -1,0 +1,5 @@
+google.com 8
+netflix.com 8
+amazon.com 9
+microsoft.com 7
+youtube.com 8
