@@ -1,0 +1,2 @@
+I am currently learning Java file handling.
+I am practicing reading from and writing to different types of files.
